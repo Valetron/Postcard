@@ -41,18 +41,14 @@ namespace Postcard4Darling
             }
         }
 
-        private void Heart_Load(object sender, EventArgs e) // function = 2-2*sin(t)+sin(t)*sqrt(abs(cos(t)))/(sin(t)+1.5)
+        private void Heart_Load(object sender, EventArgs e)
         {
             System.Drawing.Drawing2D.GraphicsPath Path = new System.Drawing.Drawing2D.GraphicsPath();
-            Path.(0, 0, 400, 400, 0, 180);
-            //Path.AddArc(45, 10, 50, 50, 225, 180);
-            /*Path.AddEllipse(17, 52, 54, 89);
-            Path.AddEllipse(88, 52, 51, 89);*/
-            //Path.AddArc(0, 0, 150, 120, 30, 120);
-            //Path.AddEllipse(50, 50, 50, 100);
-            //Path.AddEllipse(0, 0, this.Width, this.Height);
+            Path.AddArc(25, 25, 125, 125, 135, 180);
+            Path.AddArc(113, 25, 125, 125, 225, 180);
+            Path.AddLine(220, 130, 128, 223);
             Region myRegion = new Region(Path);
             this.Region = myRegion;
-        } // https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.drawing2d.graphicspath.addbeziers?view=net-5.0#System_Drawing_Drawing2D_GraphicsPath_AddBeziers_System_Drawing_Point___
+        } 
     }
 }
