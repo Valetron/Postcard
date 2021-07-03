@@ -1,0 +1,10 @@
+D:\Visual_Studio_projects\Postcard4Darling\bin\Release\Postcard4Darling.exe.config
+D:\Visual_Studio_projects\Postcard4Darling\bin\Release\Postcard4Darling.exe
+D:\Visual_Studio_projects\Postcard4Darling\bin\Release\Postcard4Darling.pdb
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.csprojAssemblyReference.cache
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.Properties.Resources.resources
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.csproj.GenerateResource.cache
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.exe
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.pdb
+D:\Visual_Studio_projects\Postcard4Darling\obj\Release\Postcard4Darling.Heart.resources
